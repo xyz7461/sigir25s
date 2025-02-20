@@ -1,0 +1,2 @@
+id,userId,prompt,samples,result
+0_US1,1,"[""Pete's Dragon (1977)-Adventure|Animation|Children|Musical"", 3.0]","{'Desperado (1995)-Action|Romance|Western': 5.0, ""Logan's Run (1976)-Action|Adventure|Sci-Fi"": 3.0, 'Shining, The (1980)-Horror': 3.0, 'Rushmore (1998)-Comedy|Drama': 5.0}","{""MovieName"" : ""Pete's Dragon (1977)-Adventure|Animation|Children|Musical"", ""RatingPrediction"" : ""4.0"""
